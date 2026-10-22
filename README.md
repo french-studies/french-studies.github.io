@@ -1,5 +1,3 @@
-# The Society for French Studies
-
 ![The SFS logo](/assets/sfs-logo.png)
 
 ### Welcome to the (temporary) website of the Society for French Studies, the foremost learned association for French studies in the UK and Ireland.
