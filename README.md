@@ -1,8 +1,8 @@
+### Home 𑗅 [About](/about.md) 𑗅 [Events](/events.md) 𑗅 [Funding](/funding.md) 𑗅 [Prizes](/prizes.md) 𑗅 [Contact](/contact.md)
+
 ![The SFS logo](/assets/sfs-logo.png)
 
 # Welcome to the (temporary) website of the Society for French Studies, the foremost learned association for French studies in the UK and Ireland.
-
-### Home 𑗅 [About](/about.md) 𑗅 [Events](/events.md) 𑗅 [Funding](/funding.md) 𑗅 [Prizes](/prizes.md) 𑗅 [Contact](/contact.md)
 
 Following the discovery of a [vulnerability](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o) in PHP, a widely-used component of many websites, we have temporarily taken our regular site offline out of an abundance of caution. We hope to be able to bring our regular site back online shortly.
 
