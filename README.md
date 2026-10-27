@@ -1,4 +1,4 @@
-### Home 𑗅 [About](/about.md) 𑗅 [Events](/events.md) 𑗅 [Funding](/funding.md) 𑗅 [Prizes](/prizes.md) 𑗅 [Contact](/contact.md)
+### Home 𑗅 [About the Society](/about.md) 𑗅 [Events](/events.md) 𑗅 [Funding](/funding.md) 𑗅 [Prizes](/prizes.md) 𑗅 [Contact](/contact.md)
 
 ![The SFS logo](/assets/sfs-logo.png)
 
