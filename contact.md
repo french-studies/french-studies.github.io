@@ -18,7 +18,7 @@ Contact details for the executive committee are listed below. Please contact the
 | **Co-Editor, *French Studies*** | Dr. Catherine Emerson | [catherine.emerson@sfs.ac.uk](mailto:catherine.emerson@sfs.ac.uk) |
 | **Co-Editor, *French Studies*** | Dr. Douglas Morrey | [douglas.morrey@sfs.ac.uk](mailto:douglas.morrey@sfs.ac.uk) |
 | **Editor, *French Studies Bulletin*** | Dr. Madeleine Chalmers | [madeleine.chalmers@sfs.ac.uk](mailto:madeleine.chalmers@sfs.ac.uk) |
-| **Assistant Editor, *French Studies Bulletin*** | Dr. Solange Manche | [solange.mance@sfs.ac.uk](mailto:solange.manche@sfs.ac.uk) |
+| **Assistant Editor, *French Studies Bulletin*** | Dr. Solange Manche | [solange.manche@sfs.ac.uk](mailto:solange.manche@sfs.ac.uk) |
 | **Chair, R. Gapper Book Prize** | Prof. Jennifer Rushworth | [jennifer.rushworth@sfs.ac.uk](mailto:jennifer.rushworth@sfs.ac.uk) |
 | **Co-Ordinator, Gapper UG Prize** | Dr. Alexandra Pugh | [gapper-ug@sfs.ac.uk](mailto:gapper-ug@sfs.ac.uk) |
 | **Co-Ordinator, Gapper PG Prize** | Prof. Richard Scholar | [gapper-pg@sfs.ac.uk](mailto:gapper-pg@sfs.ac.uk) |
