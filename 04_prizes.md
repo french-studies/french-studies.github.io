@@ -1,7 +1,7 @@
 ---
 title: Prizes
-nav_order: 5
 layout: page
+nav_order: 5
 
 ---
 
