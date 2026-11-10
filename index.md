@@ -1,6 +1,7 @@
 ---
-title: Society for French Studies
+title: SFS
 layout: home
+nav_order: 1
 ---
 
 ![The SFS logo](/assets/sfs-logo.png)

@@ -1,6 +1,7 @@
 ---
 title: About the Society
 layout: page
+nav_order: 2
 ---
 
 ## Our Activities

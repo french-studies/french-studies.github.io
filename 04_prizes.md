@@ -1,6 +1,7 @@
 ---
 title: Prizes
 layout: page
+nav_order: 5
 ---
 
 The Society awards a number of prizes each year, recognising and rewarding excellence amongst undergraduate and postgraduate students, early career researchers, and authors of books in the field of French studies.
