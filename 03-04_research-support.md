@@ -2,6 +2,7 @@
 title: Research Support
 parent: Funding
 nav_order: 4
+layout: page
 ---
 
 The Society offers funds to support the conference participation, research visits and other appropriate research-related expenses of postgraduate students, ECRs who are within 5 years of receipt of their PhD and are not in a permanent post, and colleagues in post (whether full- or part-time) without access to institutional research funding. There are no deadlines for this fund. Applications will be considered on a rolling basis, but applicants should bear in mind that consideration of their application may take up to two months from the date of application. They should therefore apply at least two months in advance of the start of the planned research activity.

@@ -2,6 +2,7 @@
 title: Contact
 parent: About the Society
 nav_order: 2
+layout: page
 ---
 
 Contact details for the executive committee are listed below. Please contact the IT Officer, Edward Mills, with any queries.

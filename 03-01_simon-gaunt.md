@@ -2,6 +2,7 @@
 title: Simon Gaunt Postgraduate Travel Grant
 parent: Funding
 nav_order: 1
+layout: page
 ---
 
 The grant is named after Professor Simon Gaunt, a world-leading scholar who transformed the theoretical landscape of medieval studies, as well as a dear colleague and ex-President of the Society. Simon died far too early in 2021, and this grant commemorates his commitment, supportiveness and capacity to inspire as supervisor and mentor for postgraduate students.

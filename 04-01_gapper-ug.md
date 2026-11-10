@@ -2,6 +2,7 @@
 title: R. Gapper Undergraduate Essay Prize
 parent: Prizes
 nav-order: 1
+layout: page
 ---
 
 The R. Gapper Undergraduate Essay Prize is awarded annually for the best essay submitted by an undergraduate student at a university based in the United Kingdom or the Republic of Ireland. The award includes a cash prize of £250, expenses-paid travel to the next annual conference of the Society for French Studies, and mention in the French Studies Bulletin and on the Society for French Studies website.

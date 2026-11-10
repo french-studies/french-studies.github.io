@@ -2,6 +2,7 @@
 title: Join the Society
 parent: About the Society
 nav_order: 1
+layout: page
 ---
 
 ## Join the Society

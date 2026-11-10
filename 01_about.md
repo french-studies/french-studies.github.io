@@ -1,5 +1,6 @@
 ---
 title: About the Society
+layout: page
 ---
 
 ## Our Activities
