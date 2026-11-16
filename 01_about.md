@@ -3,6 +3,7 @@ title: About the Society
 layout: page
 nav_order: 2
 ---
+# About the Society
 
 ## Our Activities
 

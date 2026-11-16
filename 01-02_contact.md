@@ -5,6 +5,8 @@ nav_order: 2
 layout: page
 ---
 
+# Contact the Society
+
 Contact details for the executive committee are listed below. Please contact the IT Officer, Edward Mills, with any queries.
 
 | Position | | Contact (email) |

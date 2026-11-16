@@ -5,6 +5,8 @@ nav_order: 3
 layout: page
 ---
 
+# Conference and Workshop Grants
+
 The Society for French Studies offers grants in support of conferences and pedagogic workshops held primarily in the UK or Ireland and which are concerned with research, teaching and learning in any area of French studies. This includes one-day conferences and seminars, postgraduate conferences, and activities relating to the teaching of French studies in higher education. Such activities may involve pedagogic workshops, symposia on the teaching and learning of French studies, and networking events for practitioners.
 
 The Society is particularly keen to encourage regional cooperation. Applicants are encouraged to apply for other sources of funding where practicable. Where appropriate, there will be an expectation of institutional contribution and this should be clearly evidenced in applications. The Society will not support conferences which coincide with its own Annual Conference.

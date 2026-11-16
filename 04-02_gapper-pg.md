@@ -5,6 +5,8 @@ nav-order: 2
 layout: page
 ---
 
+# R. Gapper Postgraduate Essay Prize
+
 A prize will be awarded by the Society for French Studies for an essay by a postgraduate student in English or French, up to 6,000 words in length, on any subject within the scope of French studies. *The window for entries to this year’s prize runs from 30 October to 1 December 2026.* Details of the winner and runner-up will be published in April 2027. The award will be for outstanding academic merit at postgraduate level. The judges will be members of the Executive Committee of the Society for French Studies. 
 
 The award includes: a cash prize of £750; expenses-paid travel to the next annual conference of the Society for French Studies; mention in the French Studies Bulletin and on the Society for French Studies website (www.sfs.ac.uk). 

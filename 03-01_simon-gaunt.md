@@ -5,6 +5,8 @@ nav_order: 1
 layout: page
 ---
 
+# Simon Gaunt Postgraduate Travel Grant
+
 The grant is named after Professor Simon Gaunt, a world-leading scholar who transformed the theoretical landscape of medieval studies, as well as a dear colleague and ex-President of the Society. Simon died far too early in 2021, and this grant commemorates his commitment, supportiveness and capacity to inspire as supervisor and mentor for postgraduate students.
 
 The grant (for a maximum of £1000) is designed to cover travel costs, conference fees if applicable, and to provide a stipend based on the estimate of expenses presented in the application. Projects will typically last for between five and ten days, although this could be extended if a strong case is made. The aim is to enable postgraduate students to travel abroad for a potentially career-transforming international event or activity (e.g. attendance at a major conference, access to a major collection).
