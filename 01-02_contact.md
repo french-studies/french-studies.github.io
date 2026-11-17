@@ -3,6 +3,7 @@ title: Contact
 parent: About the Society
 nav_order: 2
 layout: page
+permalink: /about/contact
 ---
 
 # Contact the Society
