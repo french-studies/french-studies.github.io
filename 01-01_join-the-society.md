@@ -3,6 +3,7 @@ title: Join the Society
 parent: About the Society
 nav_order: 1
 layout: page
+permalink: /about/join-the-society
 ---
 
 # Join the Society

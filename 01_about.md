@@ -2,6 +2,7 @@
 title: About the Society
 layout: page
 nav_order: 2
+permalink: /about
 ---
 # About the Society
 
