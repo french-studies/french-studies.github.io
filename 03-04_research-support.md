@@ -3,6 +3,7 @@ title: Research Support
 parent: Funding
 nav_order: 4
 layout: page
+permalink: /funding/research-support
 ---
 
 # Research Support

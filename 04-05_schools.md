@@ -3,6 +3,7 @@ title: SFS Prize for Schools
 parent: Prizes
 nav-order: 5
 layout: page
+permalink: /prizes/schools
 ---
 
 # SFS Prize for Schools

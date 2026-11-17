@@ -3,6 +3,7 @@ title: Conference and Workshop Grants
 parent: Funding
 nav_order: 3
 layout: page
+permalink: /funding/conference-and-workshop-grants
 ---
 
 # Conference and Workshop Grants

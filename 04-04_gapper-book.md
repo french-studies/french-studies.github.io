@@ -3,6 +3,7 @@ title: Gapper Book Prize
 parent: Prizes
 nav-order: 4
 layout: page
+permalink: /gapper-book
 ---
 
 # R. Gapper Book Prize

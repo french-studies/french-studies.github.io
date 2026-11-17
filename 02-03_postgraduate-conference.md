@@ -3,6 +3,7 @@ title: Postgraduate Conference
 parent: Events
 nav_order: 3
 layout: page
+permalink: /events/postgraduate-conference
 ---
 
 # Postgraduate Conference

@@ -3,6 +3,7 @@ title: R. Gapper Postgraduate Essay Prize
 parent: Prizes
 nav-order: 2
 layout: page
+permalink: /prizes/gapper-pg
 ---
 
 # R. Gapper Postgraduate Essay Prize

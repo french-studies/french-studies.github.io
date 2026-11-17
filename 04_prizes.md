@@ -2,7 +2,7 @@
 title: Prizes
 layout: page
 nav_order: 5
-
+permalink: /prizes
 ---
 
 # Prizes

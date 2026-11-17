@@ -3,6 +3,7 @@ title: Malcolm Bowie Prize
 parent: Prizes
 nav-order: 3
 layout: page
+permalink: /prizes/malcolm-bowie-prize
 ---
 
 # Malcolm Bowie Prize

@@ -2,6 +2,7 @@
 title: Funding
 layout: page
 nav_order: 4
+permalink: /funding
 ---
 
 # Funding

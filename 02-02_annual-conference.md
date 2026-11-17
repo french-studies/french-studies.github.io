@@ -3,6 +3,7 @@ title: Annual Conference
 parent: Events
 nav_order: 2
 layout: page
+permalink: /events/annual-conference
 ---
 
 # Annual Conference

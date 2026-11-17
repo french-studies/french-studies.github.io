@@ -3,6 +3,7 @@ title: Global Research Forum
 parent: Events
 nav_order: 1
 layout: page
+permalink: /events/global-research-forum
 ---
 
 # Global Research Forum

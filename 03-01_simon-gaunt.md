@@ -3,6 +3,7 @@ title: Simon Gaunt Postgraduate Travel Grant
 parent: Funding
 nav_order: 1
 layout: page
+permalink: /funding/simon-gaunt-postgraduate-travel-grant
 ---
 
 # Simon Gaunt Postgraduate Travel Grant

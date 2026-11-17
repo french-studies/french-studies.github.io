@@ -3,6 +3,7 @@ title: R. Gapper Undergraduate Essay Prize
 parent: Prizes
 nav-order: 1
 layout: page
+permalink: /prizes/gapper-ug
 ---
 
 # R. Gapper Undergraduate Essay Prize

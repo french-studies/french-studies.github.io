@@ -2,6 +2,7 @@
 title: Events
 layout: page
 nav_order: 3
+permalink: /events
 ---
 
 # Events
