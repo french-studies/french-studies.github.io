@@ -16,7 +16,8 @@ Malcolm Bowie (1943–2007) was not only the most eminent and inspirational Ang
 The Society invites nominations of articles published during 2026 from editors of scholarly journals, editors or publishers of collected volumes, and heads of university departments. Authors may not self-nominate (but may ask editors, publishers, or university departments to consider nominating them). Articles may be published anywhere in the world, but must be written in French or English. Nominations should be submitted, by email attachment, to the President of the Society, Professor Maeve McCusker [president@sfs.ac.uk](mailto:president@sfs.ac.uk). Please put "Malcolm Bowie Prize" as the email title.
 
 To be eligible for nomination, authors:
+
 * must be current PhD students or recent students within five years of having obtained their PhD when their article was published. Due allowance will be made for career interruptions that have prevented research and publication, such as parental leave or sick leave.
 * must have been registered for their PhD, and/or worked since their PhD, in a Department of French/Modern Languages, or equivalent. 
- 
+
 The deadline for receipt of nominations for the 2026 Prize is *26 February 2027*. The winner, announced in the Spring on the Society's website and in the _French Studies Bulletin_, receives a prize of £1000.
